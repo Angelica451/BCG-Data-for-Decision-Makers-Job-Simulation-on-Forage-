@@ -1,4 +1,4 @@
-# BCG-Data-for-Decision-Makers-Job-Simulation-on-Forage-
+# BCG-Data Analytics Simulation
 
 ## Overview
 This repo contains my deliverables for the BCG X analytics simulation. The goal was to answer:
