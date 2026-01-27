@@ -1,12 +1,14 @@
 # BCG-Data Analytics Simulation
 
 ## Overview
-This repo contains my deliverables for the BCG X analytics simulation. The goal was to answer:
-Which campaign + channel combination should the client double down on to grow new-customer sales, and why?**
+This repo contains my deliverables for the BCG X analytics Project Overview
+This repo contains my deliverables for an BCG X analytics Project. The goal was to identify which campaign and channel combination to prioritize to increase new customer sales, and explain why.
 
-I used Excel PivotTables and a slicer to isolate new customers*, then created a simple chart and slide that highlights the top-performing combinations.
+Approach
+I analyzed the dataset in Excel using PivotTables and filters to isolate new customers. I summarized performance by campaign and channel, then created a simple chart and a short slide to communicate the top-performing combinations and the recommendation.
 
-
+Tools
+Excel (PivotTables, slicers), Microsoft PowerPoint
 
 
 
